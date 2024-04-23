@@ -35,9 +35,12 @@ body {
     border-radius: 50%;
 }
 
+.pais{
+    margin-bottom: 25px;
+}
+
 .pais, tr>td, .idade {
     color: var(--cor-fraca);
-    margin-bottom: 25px;
 }
 
 td {
